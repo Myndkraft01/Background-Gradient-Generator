@@ -1,1 +1,1 @@
-# A linear background gradient is generated using the input color value.
+# A linear background gradient is generated using the input color values.
